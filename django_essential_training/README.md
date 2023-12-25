@@ -1,1 +1,1 @@
-# linkedin_become_django_developer
+# Django essential training
