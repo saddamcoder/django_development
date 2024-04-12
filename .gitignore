@@ -10,6 +10,14 @@
 *.userosscache
 *.sln.docstates
 
+pip file ignore
+Pipfile
+Pipfile.lock
+
+# ignore mysql db data
+*.dbdata/
+
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
